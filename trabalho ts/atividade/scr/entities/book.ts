@@ -1,6 +1,6 @@
 import Document from "./document";
-import {pubAt} from "./document.js"
-import Person from "./person.js"
+import {pubAt} from "./document.js";
+import Person from "./person.js";
 
 export class Book extends Document{
     isbn: number
